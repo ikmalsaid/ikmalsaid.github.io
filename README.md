@@ -1,2 +1,2 @@
 # ikmalsaid.github.io
-This is where my GitHub site go. Teehee
+My website hosted on GitHub.
